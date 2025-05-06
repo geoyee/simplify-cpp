@@ -4,6 +4,8 @@
  mourner.github.io/simplify-js
 */
 
+#pragma once
+
 // T can be float, double, long double, etc.
 
 #include <cmath>
