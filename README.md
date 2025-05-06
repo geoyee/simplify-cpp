@@ -6,6 +6,7 @@ simplify-cpp is a simple port of simplify.js by Vladimir Agafonkin (https://gith
 
 ```c++
 #include "simplify.hpp"
+
 using namespace simplify_cpp;
 
 Points<double> points = {{224.55, 250.15},...,{866.36, 480.77}};
